@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 ¡Hola! Bienvenido/a a mi perfil de GitHub 🚀<br><br>
-Me llamo Nahikari Rodriguez Nogales, soy Full Stack Developer con experiencia en el desarrollo de proyectos web innovadores. Me apasiona el aprendizaje continuo y la aplicación de la tecnología para resolver problemas reales. Actualmente, estoy trabajando en varios proyectos que incluyen desarrollo frontend y backend, y siempre estoy abierta a nuevas oportunidades y retos.
+Soy Nahikari Rodriguez Nogales, Full Stack Developer en formación, con un enfoque en el desarrollo de soluciones tecnológicas eficientes y escalables. Me apasiona el aprendizaje continuo y la aplicación de la tecnología para resolver problemas reales. Actualmente, estoy trabajando en varios proyectos que incluyen desarrollo frontend y backend, y siempre estoy abierta a nuevas oportunidades y retos.
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -16,13 +16,12 @@ Me llamo Nahikari Rodriguez Nogales, soy Full Stack Developer con experiencia en
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/machine%20learning-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=naahiki&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=naahiki&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=naahiki&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+## 📊 GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naahiki&theme=radical&hide_border=true&show_icons=true)<br/>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=naahiki&theme=radical&hide_border=true)<br/>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=naahiki&icon=8&color=0)](https://visitcount.itsvg.in)
+[![Visitor Count](https://visitcount.itsvg.in/api?id=naahiki&icon=8&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
