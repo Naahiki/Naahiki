@@ -17,12 +17,12 @@ Me llamo Nahikari Rodriguez Nogales, soy Full Stack Developer con experiencia en
 ![Machine Learning](https://img.shields.io/badge/machine%20learning-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=tu_usuario&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=tu_usuario&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tu_usuario&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=naahiki&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=naahiki&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=naahiki&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=tu_usuario&icon=8&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=naahiki&icon=8&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
