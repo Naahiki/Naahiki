@@ -17,11 +17,12 @@ Soy Nahikari Rodriguez Nogales, Full Stack Developer en formación, con un enfoq
 ![Machine Learning](https://img.shields.io/badge/machine%20learning-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ## 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naahiki&theme=radical&hide_border=true&show_icons=true)<br/>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=naahiki&theme=radical&hide_border=true)<br/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naahiki&theme=radical&hide_border=true&show_icons=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=naahiki&theme=radical&hide_border=true)
 
 ---
 
 [![Visitor Count](https://visitcount.itsvg.in/api?id=naahiki&icon=8&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
