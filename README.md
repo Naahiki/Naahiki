@@ -16,13 +16,19 @@ Soy Nahikari Rodriguez Nogales, Full Stack Developer en formación, con un enfoq
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/machine%20learning-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-## 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naahiki&theme=radical&hide_border=true&show_icons=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=naahiki&theme=radical&hide_border=true)
+### 🌱 Siempre aprendiendo
+
+- Me gusta descubrir nuevas formas de hacer las cosas, desde frameworks modernos hasta conceptos de arquitectura.
+- A veces experimento con inteligencia artificial, visualización de datos o diseño de interfaces.
+- Otras veces simplemente me pierdo leyendo documentación… por gusto 🧠
 
 ---
 
-[![Visitor Count](https://visitcount.itsvg.in/api?id=naahiki&icon=8&color=0)](https://visitcount.itsvg.in)
+### 📊 Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naahiki&theme=radical&hide_border=true&show_icons=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=naahiki&theme=radical&hide_border=true)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Profile views](https://komarev.com/ghpvc/?username=naahiki&label=Profile%20views&color=blue&style=flat)
+
+<!-- Created with ❤️ by NahikiWinki | Inspired by curiosity and late-night debugging sessions -->
